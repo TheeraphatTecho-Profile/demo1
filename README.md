@@ -1,5 +1,12 @@
 # Email Validation Project
 
+## Developer
+**Name:** Theeraphat Techo
+**ID:** 6740248106
+
+## License
+© Theeraphat Techo 6740248106
+
 ## Project Overview
 This project contains a simple email validation function written in JavaScript. The purpose is to demonstrate basic email format validation using regular expressions.
 
@@ -28,6 +35,7 @@ console.log(validateEmail("invalid-email"));      // Returns: false
 
 ## Update Log
 - **March 23, 2026, 10:42 UTC+07:00** - Initial project setup with email validation function
+- **March 23, 2026, 10:45 UTC+07:00** - Added developer information and license
 
 ## Future Enhancements
 - Add more comprehensive email validation rules
